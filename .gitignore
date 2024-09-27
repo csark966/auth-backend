@@ -1,2 +1,6 @@
-#secret
+# Ignore .env file
 .env
+
+# Ignore node_modules
+node_modules/
+
